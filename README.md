@@ -83,7 +83,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a diver
 ## 🌐 Social Connections
 
 - **LinkedIn:** [linkedin.com/in/mihirbhadak](https://linkedin.com/in/mihirbhadak)
-- **Twitter:** [twitter.com/mihirbhadak](https://twitter.com/mihirbhadak)
+- **X:** [x.com/mihirbhadak](https://twitter.com/mihirbhadak)
 - **Instagram:** [instagram.com/mihir_bhadak](https://www.instagram.com/mihir_bhadak/)
 - **Email:** mihirbhadak@gmail.com 📧
 
